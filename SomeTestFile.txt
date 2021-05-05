@@ -3,3 +3,4 @@ Some new line of text on github
 Some new line from my desktop
 Some new line added on github to cause a conflict
 Causing a conflict from VSCode
+Causing a new conflict from github
