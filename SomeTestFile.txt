@@ -1,3 +1,4 @@
 Some text in this file
 Some new line of text on github
 Some new line from my desktop
+Some new line added on github to cause a conflict
