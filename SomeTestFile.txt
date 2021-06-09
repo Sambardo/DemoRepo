@@ -3,4 +3,4 @@ Add a line from my desktop
 Added this line on github
 Added this line on my desktop to cause a conflict
 Added this line on github to cause a conflict
-
+Added this line from VSCode to cause a conflict
