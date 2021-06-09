@@ -1,3 +1,4 @@
 Some text in this file
 Add a line from my desktop
 Added this line on github
+Added this line on my desktop to cause a conflict
