@@ -4,3 +4,5 @@ Function MyFunction
 
     Write-Host $message -ForegroundColor Green
 }
+
+MyFunction
