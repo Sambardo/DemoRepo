@@ -1,2 +1,6 @@
-Write-Host "Hello World" -ForegroundColor Green
+Function MyFunction
+{
+    param()
 
+    Write-Host "Hello World" -ForegroundColor Green
+}
