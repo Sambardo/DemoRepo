@@ -1,6 +1,6 @@
 Function MyFunction
 {
-    param()
+    param($message)
 
-    Write-Host "Hello World" -ForegroundColor Green
+    Write-Host $message -ForegroundColor Green
 }
