@@ -5,4 +5,4 @@ Function MyFunction
     Write-Host $message -ForegroundColor Green
 }
 
-MyFunction
+MyFunction -message "Hello world"
