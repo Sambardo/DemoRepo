@@ -1,3 +1,6 @@
 Some text in this file
-I added this line from my desktop to cause a conflict. 
 I added this text on github to cause a conflict. 
+I added this line from my desktop to cause a conflict. 
+I added this text on github to cause a conflict 2 
+
+I added this text on github to cause a conflict 3
