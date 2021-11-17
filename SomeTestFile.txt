@@ -1,7 +1,1 @@
 Some text in this file
-I added this line on github
-I added this line on my desktop to cause a conflict
-I added this line on github to cause a conflict
-I added this from VSCode
-I'm adding this in vscode to cause a conflict
-I am adding this in github to cause a conflict
