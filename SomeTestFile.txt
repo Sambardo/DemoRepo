@@ -1,3 +1,5 @@
 Some text in this file
+I'm adding this from VSCODE for conflicts 1
 I added this line from my desktop to cause a conflict. 
 I added this text on github to cause a conflict. 
+I'm adding this from VSCODE for conflicts 2

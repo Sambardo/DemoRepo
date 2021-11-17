@@ -11,4 +11,4 @@ function FunctionName {
     
 }
 
-FunctionName
+FunctionName -t "hello"
