@@ -1,5 +1,0 @@
-Some text in this file
-I added this line on github to cause a conflict
-Adding this on my desktop to cause a conflict
-Adding this line from VSCode to cause a conflict
-Adding this line on github to cause a conflict with VSCode
