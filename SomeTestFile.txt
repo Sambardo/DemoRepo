@@ -1,3 +1,4 @@
 New Demo
 Some new line from github
 Some new text from my local machine to cause a conflict
+Some text from github to cause a conflict
