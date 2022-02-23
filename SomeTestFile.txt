@@ -3,3 +3,4 @@ Some new line from github
 Some new text from my local machine to cause a conflict
 Some text from github to cause a conflict
 Some edit from VSCODE to cause a conflict on github
+Some new conflict from github to VSCODE
