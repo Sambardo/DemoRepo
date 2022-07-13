@@ -3,3 +3,4 @@ I added this on github
 I added this line on my desktop to cause a conflict
 I added this line on github to cause a conflict
 I added this text on VSCODE
+I added this on github to cause a conflict in vscode
