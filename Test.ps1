@@ -12,3 +12,7 @@ function FunctionName {
 }
 
 FunctionName "hello"
+FunctionName "hello"
+FunctionName "hello"
+
+FunctionName "hello"
