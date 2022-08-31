@@ -10,3 +10,6 @@ Function MyFunction
 
 MyFunction -message "Hello world"
 MyFunction -message "Hello world"
+MyFunction -message "Hello world"
+MyFunction -message "Hello world"
+MyFunction -message "Hello world"
