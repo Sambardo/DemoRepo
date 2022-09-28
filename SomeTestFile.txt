@@ -3,3 +3,4 @@ I"m adding this on github to demo a pull
 I am adding this line on my desktop to cause a conflict
 I am adding this on github to cause a conflict
 I"m adding this line in VSCODE
+I'm adding this line on VSCODE to cause a conflict
