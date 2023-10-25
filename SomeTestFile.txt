@@ -3,3 +3,4 @@ I am adding this on github to demo a pull
 I am adding this on my local machine to cause a conflict
 I am adding this on github to cause a conflict
 I am adding this from vscode
+I am adding this from vscode to cause a conflict

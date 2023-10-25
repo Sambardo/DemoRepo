@@ -5,7 +5,10 @@ Function MyFunction
     param($message)
 
     Write-Host $message -ForegroundColor Green
-    Write-Host $message -ForegroundColor yellow
+    Write-Host $message -ForegroundColor magenta
 }
 
+MyFunction -message "Hello world"
+MyFunction -message "Hello world"
+MyFunction -message "Hello world"
 MyFunction -message "Hello world"
