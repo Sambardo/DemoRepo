@@ -25,5 +25,19 @@ Function MyFunction3
     Write-Host $message -ForegroundColor Green
 }
 
+Function MyNewFunction
+{
+    param($message)
+    write-host "hello world" -forgroundcolor blue
+    Write-Host $message -ForegroundColor Green
+}
+
+Function MyNewFunction2
+{
+    param($message)
+    write-host "hello world" -forgroundcolor blue
+    Write-Host $message -ForegroundColor Green
+}
+
 Write-host "hi!"
 
