@@ -25,5 +25,5 @@ Function MyFunction3
     Write-Host $message -ForegroundColor Green
 }
 
-Write-host "hello!"
+Write-host "hi!"
 
