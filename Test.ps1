@@ -21,3 +21,10 @@ function FunctSomeFunctionName {
 
 
 FunctionName "hello"
+
+Function MyFunction
+{
+    write-host "hello world"
+}
+
+Myfunction
