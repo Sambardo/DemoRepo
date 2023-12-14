@@ -11,4 +11,13 @@ function FunctionName {
     
 }
 
+function FunctSomeFunctionName {
+    param ([validateset([Vtest],ErrorMessage="You did this wrong")]$t
+    )
+
+    write-host $t -ForegroundColor Green
+    
+}
+
+
 FunctionName "hello"
