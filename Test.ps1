@@ -14,6 +14,10 @@ function FunctSomeFunctionName {
     
 }
 
+function MyNewFunctionVSCode
+{
+    Write-host "hello world" -ForegroundColor Green
+}
 
 FunctionName "hello"
 FunctionName "hello"
@@ -27,3 +31,18 @@ Function MyFunction
 }
 
 Myfunction
+
+Function MyFunction4
+{
+    write-host "hello world"
+}
+
+Function MyFunction5
+{
+    write-host "hello world"
+}
+
+Function MyFunction6
+{
+    write-host "hello world"
+}
