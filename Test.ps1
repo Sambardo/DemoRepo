@@ -16,6 +16,10 @@ function FunctSomeFunctionName {
 
 
 FunctionName "hello"
+FunctionName "hello"
+
+FunctionName "hello"
+
 
 Function MyFunction
 {
