@@ -14,6 +14,11 @@ function FunctSomeFunctionName {
     
 }
 
+function MyNewFunction
+{
+    write-host "hello world" -forgroundcolor Green
+}
+
 
 FunctionName "hello"
 FunctionName "hello"
@@ -27,3 +32,16 @@ Function MyFunction
 }
 
 Myfunction
+
+function MyNewFunction2
+{
+    write-host "hello world" -forgroundcolor Green
+}
+function MyNewFunction3
+{
+    write-host "hello world" -forgroundcolor Green
+}
+function MyNewFunction4
+{
+    write-host "hello world" -forgroundcolor Green
+}
