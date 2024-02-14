@@ -66,3 +66,8 @@ Function MyFunction6
 {
     write-host "hello world"
 }
+
+function Github2
+{
+
+}
