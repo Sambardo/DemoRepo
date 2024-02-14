@@ -1,3 +1,8 @@
+function VSCodeFunction
+{
+    write-host "hello world"
+}
+
 function FunctionName {
     param ([validateset([Vtest],ErrorMessage="You did this wrong")]$t
     )
@@ -12,6 +17,11 @@ function FunctSomeFunctionName {
 
     write-host $t -ForegroundColor Green
     
+}
+
+function VSCodeFunction2
+{
+    write-host "hello world"
 }
 
 function MyNewFunction
