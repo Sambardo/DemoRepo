@@ -1,3 +1,8 @@
+function GITHUBTEST
+{
+    Write-host "hello world" 
+}
+
 function FunctionName {
     param ([validateset([Vtest],ErrorMessage="You did this wrong")]$t
     )
@@ -55,4 +60,9 @@ Function MyFunction5
 Function MyFunction6
 {
     write-host "hello world"
+}
+
+function Github2
+{
+
 }
